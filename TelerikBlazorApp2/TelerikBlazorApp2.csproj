@@ -1,0 +1,17 @@
+﻿
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseRazorSourceGenerator>false</UseRazorSourceGenerator>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Telerik.UI.for.Blazor.Trial" Version="3.3.0" />
+    <PackageReference Include="Telerik.WebReportDesigner.Blazor.Trial" Version="16.1.22.511" />
+    <PackageReference Include="Telerik.WebReportDesigner.Services.Trial" Version="16.1.22.511" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\Reports" />
+  </ItemGroup>
+</Project>

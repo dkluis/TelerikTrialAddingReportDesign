@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\TelerikBlazorApp2.csproj" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\_Host.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\_Host.cshtml" />
+  <event action="Analyze" type="Success" name="_Host.cshtml" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\_Host.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="_Layout.cshtml" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\_Layout.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\_ViewImports.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\_ViewImports.cshtml" />
+  <event action="Analyze" type="Success" name="_ViewImports.cshtml" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\_ViewImports.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="_ViewStart.cshtml" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\_ViewStart.cshtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\Error.cshtml" />
+  <event action="Analyze" type="Success" name="Error.cshtml" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\Pages\Error.cshtml" />
+  <event action="Analyze" type="Success" name="TelerikBlazorApp2" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2\TelerikBlazorApp2.csproj" />
+  <event action="Analyze" type="Success" name="TelerikBlazorApp2" path="C:\Users\Dick\source\repos\TelerikBlazorApp2\TelerikBlazorApp2.sln" />
+</log>
