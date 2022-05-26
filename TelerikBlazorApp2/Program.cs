@@ -38,7 +38,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-//app.UseEndpoints(endpoints => endpoints.MapControllers()); 
+app.UseEndpoints(endpoints => endpoints.MapControllers()); 
 
 app.UseHttpsRedirection();
 
